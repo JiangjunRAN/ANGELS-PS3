@@ -16,7 +16,7 @@ ANGELS-PS3 can be divided into two types of post-processing: **Spatial-domain po
 Finally, the equivalent water height or the spherical harmonic coefficient after treatment can be output.
 	
 ## Release time
-We will release the code in June 2022.
+We will release the code in December 2022.
 
 ## Reference
 Chen, J. L. ,  Wilson, C. R. ,  Tapley, B. D. , &  Grand, S. . (2007). Grace detects coseismic and postseismic deformation from the sumatra‐andaman earthquake. Geophysical Research Letters, 34(13), 173-180.<br>
